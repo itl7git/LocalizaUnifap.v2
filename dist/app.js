@@ -7,8 +7,6 @@ exports.default = void 0;
 
 require("reflect-metadata");
 
-require("dotenv/config");
-
 var _express = _interopRequireDefault(require("express"));
 
 require("express-async-errors");
